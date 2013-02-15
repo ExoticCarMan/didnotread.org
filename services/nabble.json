@@ -2,6 +2,11 @@
  "id":"nabble",
  "name": "Nabble",
  "type": "service",
+ "url": "http://www.nabble.com",
   "tosdr": {"rated": false},
+  "tos": {
+   "terms": "http://www.nabble.com/Terms.jtp",
+   "privacy": "http://www.nabble.com/PrivacyPolicy.jtp"
+  }
   "alexa": 2369
 }
