@@ -2,6 +2,10 @@
  "id":"olx",
  "name": "OLX",
  "type": "service",
+ "url": "http://www.olx.com",
   "tosdr": {"rated": false},
+  "tos": {
+   "terms": "http://www.olx.com/terms.php"
+  }
   "alexa": 2660
 }
